@@ -1,7 +1,7 @@
 # Challange 3 - JavaScript: Employee Payroll Tracker
 Week 3 - Columbia Boot Camp
 
-## Link to deployed website: 
+## Link to deployed website: https://wilsacker.github.io/Week-3-Challange/
 
 ## Description:
 
