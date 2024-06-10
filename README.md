@@ -5,7 +5,7 @@ Week 3 - Columbia Boot Camp
 
 ## Description:
 
-### This is a site which allows users to add employees first and last names, as well as their salary, to a table on the page. It also console logs the average salary of all the employees added and selects a random employee from the table for a bonus.
+This is a site which allows users to add employees first and last names, as well as their salary, to a table on the page. It also console logs the average salary of all the employees added and selects a random employee from the table for a bonus.
 
 
 -------------------------------------------------------------------
